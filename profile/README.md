@@ -2,6 +2,8 @@
 
 This book is dedicated to Rust lovers around the world.
 
+> Welcome friends to correct errors, including content cognition and English grammar word description errors and so on.
+
 ## Target Readers
 
 Nowadays, many Rust programming learning materials are written for people with some programming basics. This book is an attempt and a challenge to be geared towards zero programming basics without losing the depth of the content, and to inspire developers with some Rust programming experience.
@@ -32,4 +34,4 @@ Therefore, the appropriate audience for this book is:
 - People who want to learn Rust systematically and want to master the language in depth
 
 
-> Welcome friends to correct errors, including content cognition and English grammar word description errors and so on.
+
